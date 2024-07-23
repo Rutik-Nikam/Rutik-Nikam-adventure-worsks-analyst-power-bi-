@@ -1,0 +1,47 @@
+ Adventure Works Sales Analysis
+
+## Description
+This project involves analyzing the Adventure Works sales data using Power BI. It includes dynamic visualizations to track performance metrics, sales trends, and profitability insights.
+
+## Dataset
+**Adventure Works Sales Dataset**
+
+## Columns
+1. **Segment** - Customer segment information.
+2. **Country** - Country where the sales occurred.
+3. **Product** - Product details.
+4. **Discount Band** - Discount categories applied to the sales.
+5. **Units Sold** - Number of units sold.
+6. **Manufacturer** - Product manufacturer information.
+7. **Sale Price** - Price at which the product was sold.
+8. **Gross Sales** - Total sales amount before discounts.
+9. **Discount** - Discount amount applied.
+10. **Sale** - Net sales amount after discounts.
+11. **COGS** (Cost of Goods Sold) - Cost incurred to produce the goods sold.
+12. **Profit** - Profit earned from the sales.
+13. **Date** - Date of the sale.
+14. **Month Number** - Numeric representation of the month.
+15. **Month Name** - Name of the month.
+16. **Year** - Year of the sale.
+
+## Analysis and Visualizations
+- **Sales by Segment and Country** - Breakdown of sales by customer segment and country.
+- **Quarter-to-Date (QTD) Profit** - Profit earned within the current quarter.
+- **Month-to-Date (MTD) Sold** - Units sold within the current month.
+- **Year-to-Date (YTD) Sales** - Total sales within the current year.
+- **Total Discounts by Discount Band** - Total discounts given, categorized by discount bands.
+- **Time-Based Performance (2013-2014)** - Sales and performance metrics over the years 2013 and 2014.
+- **Summary Table** - Total units sold, total sales, total profit, and profit margin.
+- **Sales and Profit Overview** - Comprehensive view of sales and profit metrics.
+
+## Author
+Rutik Nikam
+
+## Date
+[Your Upload Date]
+
+## Tools Used
+Power BI
+
+## Objective
+To provide insights into sales performance, identify trends, and support strategic decision-making through data visualization.
